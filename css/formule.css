@@ -1,0 +1,102 @@
+body{
+	background-color: grey;
+}
+@font-face {
+	font-family: "MagicCrystal";
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/MagicCrystal.ttf");
+}
+.middenkolom{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	background-color: white;
+	height: 480px;
+	
+}
+.header{
+	font-family: MagicCrystal;
+	font-size: 30px;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto; 
+}
+h1{
+	color: white;
+}
+h2{
+		padding-left: 10px;
+
+}
+p{
+	
+	margin-left: 10px;
+	font-family: Arial;
+	font-style: italic;
+}
+
+.menu{
+	background-color: #ad2406;
+	padding: 1px;
+	}
+	
+.menu li{
+	display: inline;
+	padding: 10px;	
+}
+.menu ul {
+	padding-left: 10px;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+.input{
+	
+	width: 300px;
+	display: inline-block;
+	margin-top: 15px;
+}
+.label{
+	width: 433px;
+	display: inline-block;
+	padding-left: 10px;
+}
+
+.button
+{
+	display: block;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.voettekst{
+	background-color: #545245;
+	margin-top: 50px;
+	color: white;
+	text-align: center;
+	padding: 1px;
+	margin-bottom: 30px;
+}
+
+.middenkolom1{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	background-color: white;
+	height: 250px;
+	
+}
+.header1{
+	font-family: MagicCrystal;
+	font-size: 30px;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto; 
+}
